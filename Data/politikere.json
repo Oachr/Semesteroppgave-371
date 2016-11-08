@@ -1,0 +1,90 @@
+{
+  "politikere": [{
+      "fornavn": "Erna",
+      "etternavn": "Solberg",
+      "parti": "H",
+      "FB": "ernasolberg"
+    }, {
+      "fornavn": "Siv",
+      "etternavn": "Jensen",
+      "parti": "FRP",
+      "FB": "Siv.Jensen.FrP"
+    }, {
+      "fornavn": "Jonas",
+      "etternavn": "Støre",
+      "parti": "AP",
+      "FB": "jonasgahrstore"
+    }, {
+      "fornavn": "Knut",
+      "etternavn": "Hareide",
+      "parti": "KRF",
+      "FB": "Knut.Arild.Hareide"
+    },
+    // Fungerer ikke {"fornavn": "Bjørnar", "etternavn": "Moxnes", "parti": "R", "FB": "b.moxnes"},
+    // Fungerer ikke {"fornavn": "Trygve", "etternavn": "Slagsvold Vedum", "parti": "SP", "FB": "vedum"},
+    {
+      "fornavn": "Audun",
+      "etternavn": "Lysbakken",
+      "parti": "SV",
+      "FB": "audunlysbakken"
+    }, {
+      "fornavn": "Trine",
+      "etternavn": "Grande",
+      "parti": "V",
+      "FB": "trinesg"
+    },
+    // Fungerer ikke {"fornavn": "Hadia", "etternavn": "Tajik", "parti": "AP", "FB": "Hadia-Tajik"},
+    {
+      "fornavn": "Per",
+      "etternavn": "Sandberg",
+      "parti": "FRP",
+      "FB": "Per.Sandberg.FrP"
+    }, {
+      "fornavn": "Rasmus",
+      "etternavn": "Hansson",
+      "parti": "MDG",
+      "FB": "rasmusjmhansson"
+    }, {
+      "fornavn": "Jan Tore",
+      "etternavn": "Sanner",
+      "parti": "H",
+      "FB": "JanTSanner"
+    }, {
+      "fornavn": "Torbjørn",
+      "etternavn": "Isaksen",
+      "parti": "H",
+      "FB": "torbjornroeisaksen"
+    },
+    // Fungerer ikke {"fornavn": "Sylvi", "etternavn": "Listhaug", "parti": "FRP", "FB": "Sylvi-Listhaug"},
+    // Fungerer ikke {"fornavn": "Anders", "etternavn": "Anundsen", "parti": "FRP", "FB": "Anders-Anundsen-704433219576065"},
+    {
+      "fornavn": "Dagrun",
+      "etternavn": "Eriksen",
+      "parti": "KRF",
+      "FB": "dagruneriksen"
+    }, {
+      "fornavn": "Geir",
+      "etternavn": "Pollestad",
+      "parti": "SP",
+      "FB": "geirsp"
+    }, {
+      "fornavn": "Bård Vegar",
+      "etternavn": "Solhjell",
+      "parti": "SV",
+      "FB": "bardvegar"
+    },
+    // Fungerer ikke {"fornavn": "Bjørnar", "etternavn": "Moxnes", "parti": "R", "FB": "Bjørnar-Moxnes-Rødt-182519768770232"}
+    // Fungerer ikke {"fornavn": "Trygve", "etternavn": "Slagsvold Vedum", "parti": "SP", "FB": "Trygve-Slagsvold-Vedum-739479816107780"},
+    {
+      "fornavn": "Une Aina",
+      "etternavn": "Bastholm",
+      "parti": "MDG",
+      "FB": "UneBastholm"
+    }, {
+      "fornavn": "Hanna",
+      "etternavn": "Marcussen",
+      "parti": "MDG",
+      "FB": "hanna.e.marcussen"
+    }
+  ]
+}

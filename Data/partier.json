@@ -1,0 +1,26 @@
+ {"Partier": [{
+    "navn": "Arbeiderpartiet",
+    "short": "ap"
+  }, {
+    "navn": "Høyre",
+    "short": "h"
+  }, {
+    "navn": "Fremskrittspartiet",
+    "short": "frp"
+  }, {
+    "navn": "Venstre",
+    "short": "v"
+  }, {
+    "navn": "Sosialistisk venstreparti",
+    "short": "sv"
+  }, {
+    "navn": "Kristelig folkeparti",
+    "short": "krf"
+  }, {
+    "navn": "Senterpartiet",
+    "short": "sp"
+  }, {
+    "navn": "Miljøpartiet de grønne",
+    "short": "mdg"
+  }]
+}
