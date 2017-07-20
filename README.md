@@ -1,6 +1,6 @@
 # Semesteroppgave 371
 
-Resultat av prosjektet med visualisering finnes på: http://oleachr.net/
+Resultat av prosjektet med visualisering finnes på: https://oachr.github.io/Semesteroppgave-371/
 
 
 ## Todo
